@@ -8,3 +8,7 @@ The machine-learning model that I use in this project :
 * K-NearestNeighbors (KNN)
 * RandomForest
 * SVM
+
+## Demo
+Launch the web app :
+https://traditional-classifier.herokuapp.com/
